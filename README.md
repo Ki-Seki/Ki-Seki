@@ -1,3 +1,5 @@
+简体中文 | [English](./README_en.md)
+
 # 😉关于我
 
 我是 Ki Seki
