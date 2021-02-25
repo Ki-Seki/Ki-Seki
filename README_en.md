@@ -4,9 +4,9 @@
 
 This is Ki Seki.
 
-# ✨On going
+# ✨On-going Projects
 
-- 个人主页
+- KI-SEKI.SITE [click to visit](http://ki-seki.site)
 
 # 💻Development Plan
 
