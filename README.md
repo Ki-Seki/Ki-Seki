@@ -2,6 +2,13 @@
 
 我是 Ki Seki，你可以叫我小 K，目前河南财经政法大学电子商务本科在读。我是一个 Coder，也是一个 Sk8er。Aloha~
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ki-Seki&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ki-Seki&show_icons=true&include_all_commits=true&hide_border=true" alt="My github stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Seki&hide=CSS,SCSS&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # 🔧 我的技能
 
 - Python
