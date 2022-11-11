@@ -1,15 +1,15 @@
 [English](./README.md) | [中文](./README_zh.md)
 
-# 😉 About Me
+# 😉 关于我
 
-My name is Ki Seki, you can also call me as Little K. I'm currently an undergraduate of Henan University of Economics and Law. I'm a coder and a Sk8er. Aloha~
+我是 Ki Seki，你可以叫我小 K，目前河南财经政法大学电子商务本科在读。我是一个 Coder，也是一个 Sk8er。Aloha~
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ki-Seki&show_icons=true&include_all_commits=true&hide_border=true" alt="My github stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ki-Seki&hide=CSS,SCSS&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# 🔧 My Skills
+# 🔧 我的技能
 
 - Python
   - Web Crawling: Scrapy, Selenium, Requests, BeautifulSoup, Re, ...
@@ -22,16 +22,16 @@ My name is Ki Seki, you can also call me as Little K. I'm currently an undergrad
 - MySQL
 - ...
 
-# 🔬 My Research Interests
+# 🔬 科研兴趣
 
 - Recommender System
 - Graph Neural Network
 - Meta Learning
 - ...
 
-# 💡 Some Ideas
+# 💡 一些点子
 
-<details><summary>CLICK ME FOR DETAILS</summary>
+<details><summary>点击查看更多</summary>
 <p>
 
 ## 动态学习的推荐系统
