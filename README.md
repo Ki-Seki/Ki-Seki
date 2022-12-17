@@ -1,5 +1,7 @@
 [English](./README.md) | [中文](./README_zh.md)
 
+![](https://komarev.com/ghpvc/?username=Ki-Seki)
+
 # 😉 About Me
 
 My name is Ki Seki, you can also call me as Little K. I'm currently an undergraduate of Henan University of Economics and Law. I'm a coder and a Sk8er. Aloha~

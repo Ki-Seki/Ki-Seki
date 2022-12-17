@@ -1,5 +1,7 @@
 [English](./README.md) | [中文](./README_zh.md)
 
+![](https://komarev.com/ghpvc/?username=Ki-Seki&label=++浏览量++)
+
 # 😉 关于我
 
 我是 Ki Seki，你可以叫我小 K，目前河南财经政法大学电子商务本科在读。我是一个 Coder，也是一个 Sk8er。Aloha~
