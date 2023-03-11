@@ -15,3 +15,7 @@ My name is Ki Seki, and you can also call me Little K. I'm currently an undergra
 - Graph Neural Network
 - Meta-Learning
 - ...
+
+# 📈 Popular Repositories
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ki-Seki/MOPSO-for-Distribution,Ki-Seki/solutions,Ki-Seki/gadgets,Ki-Seki/Genetic-Particle-Swarm-Optimization,Ki-Seki/modeling&type=Date)](https://star-history.com/#Ki-Seki/MOPSO-for-Distribution&Ki-Seki/solutions&Ki-Seki/gadgets&Ki-Seki/Genetic-Particle-Swarm-Optimization&Ki-Seki/modeling&Date)

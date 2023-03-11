@@ -15,3 +15,7 @@
 - Graph Neural Network
 - Meta-Learning
 - ...
+
+# 📈 受欢迎的项目
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ki-Seki/MOPSO-for-Distribution,Ki-Seki/solutions,Ki-Seki/gadgets,Ki-Seki/Genetic-Particle-Swarm-Optimization,Ki-Seki/modeling&type=Date)](https://star-history.com/#Ki-Seki/MOPSO-for-Distribution&Ki-Seki/solutions&Ki-Seki/gadgets&Ki-Seki/Genetic-Particle-Swarm-Optimization&Ki-Seki/modeling&Date)
