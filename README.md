@@ -1,5 +1,3 @@
-🗣️ [English](./README.md) | [中文](README.zh_CN.md)
-
 ![](https://komarev.com/ghpvc/?username=Ki-Seki)
 
 ## 😉 About Me
@@ -14,8 +12,13 @@ My name is Ki Seki, and you can also call me Little K. I'm currently an undergra
 - Recommender System
 - Graph Neural Network
 - Meta-Learning
+- Route Optimization
 - ...
 
 ## 📈 Popular Repositories
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ki-Seki/MOPSO-for-Distribution,Ki-Seki/solutions,Ki-Seki/gadgets,Ki-Seki/Genetic-Particle-Swarm-Optimization,Ki-Seki/modeling,Ki-Seki/test&type=Date)](https://star-history.com/#Ki-Seki/MOPSO-for-Distribution&Ki-Seki/solutions&Ki-Seki/gadgets&Ki-Seki/Genetic-Particle-Swarm-Optimization&Ki-Seki/modeling&Ki-Seki/test&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Ki-Seki/MOPSO-for-Distribution,Ki-Seki/solutions,Ki-Seki/gadgets,Ki-Seki/Genetic-Particle-Swarm-Optimization,Ki-Seki/modeling&type=Date)](https://star-history.com/#Ki-Seki/MOPSO-for-Distribution&Ki-Seki/solutions&Ki-Seki/gadgets&Ki-Seki/Genetic-Particle-Swarm-Optimization&Ki-Seki/modeling&Date)
+
+## 🤝 My Friends
+
+[@Duguce](https://github.com/Duguce)
